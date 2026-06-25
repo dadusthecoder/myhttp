@@ -1,0 +1,31 @@
+# Build directories
+build/
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+CMakeLists.txt.user
+
+# Generated files
+*.spv
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE
+.vscode/
+.idea/
+*.vcxproj.user
+*.sln.DotSettings
+*.pro.user
+
+# OS
+.DS_Store
+Thumbs.db
+.swp
+*~
+
+# Compiled output
+*.obj
+*.lib
+*.a
